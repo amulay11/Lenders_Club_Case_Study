@@ -76,7 +76,7 @@ https://towardsdatascience.com/10-must-know-seaborn-functions-for-multivariate-d
 
 
 ## Contact
-Created by [@amulay11] - feel free to contact me!
+Created by [github@amulay11] - feel free to contact me!
 
 
 <!-- Optional -->

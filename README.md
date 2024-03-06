@@ -56,6 +56,7 @@
 ## Acknowledgements
 - This project is based on case study provided as part of Upgrad course on AI & ML
 - References used for study of credit risk analysis
+
     https://corporatefinanceinstitute.com/resources/commercial-lending/credit-risk-analysis/
 
     https://www.investopedia.com/terms/l/lossgivendefault.asp

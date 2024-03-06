@@ -57,11 +57,15 @@
 - This project is based on case study provided as part of Upgrad course on AI & ML
 - References used for study of credit risk analysis
     https://corporatefinanceinstitute.com/resources/commercial-lending/credit-risk-analysis/
+
     https://www.investopedia.com/terms/l/lossgivendefault.asp
+
     https://www.wallstreetmojo.com/probability-of-default/
+
     https://www.fico.com/en/products/fico-score
 
 - Tutorials/Documentation used:
+
 https://seaborn.pydata.org/generated/seaborn.barplot.html
 https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.legend.html
 https://seaborn.pydata.org/generated/seaborn.boxplot.html
